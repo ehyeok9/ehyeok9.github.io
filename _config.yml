@@ -2,8 +2,30 @@
 #  User configuration
 # -----------------------------------------------------------------------------
 
+locale:              ko
 title:               E-hyeok9
+name:                혁규의 blog
+search:              true
+search_full_content: true
 
+comments:
+  provider               : "disqus"
+  disqus:
+    shortname            : dev-hundred-blog # Short-name
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: false
+      comments: true # 댓글 활성화
+      share: true
+      related: true
+      
 # The unique resource location of your page.
 # Set to `https://<username>.github.io` when hosting on GitHub Pages
 url:                 https://ehyeok9.github.io
