@@ -1,7 +1,7 @@
 ---
 layout: list
-title: Shopping
-slug: shopping
+title: Exercise
+slug: exercise
 menu: true
 submenu: false
 order: 6
