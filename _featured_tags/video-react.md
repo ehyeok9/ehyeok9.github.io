@@ -1,7 +1,7 @@
 ---
 layout: tag-blog
-title: React
-slug: react
+title: Python
+slug: python
 category: video
 menu: false
 order: 1
