@@ -2,7 +2,7 @@
 layout: tag-blog
 title: Judo
 slug: judo
-category: judo
+category: exercise
 menu: false
 order: 1
 ---
