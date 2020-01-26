@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: Shopping
-slug: shopping
-category: shopping
+title: Exercise
+slug: exercise
+category: exercise
 menu: false
 order: 1
 ---
