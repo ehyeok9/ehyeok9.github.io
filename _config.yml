@@ -11,7 +11,7 @@ search_full_content: true
 comments:
   provider               : "disqus"
   disqus:
-    shortname            : "ehyeok9" # Short-name
+    shortname            : ehyeok9 # Short-name
 
 defaults:
   # _posts
@@ -70,7 +70,7 @@ google_analytics:    UA-92346434-1
 
 # Setting a disqus shortname will enable the comment section on pages with `comments: true` in the front matter
 disqus_shortname:    ehyeok9
-
+disqus_id:           
 # This text will appear in the footer of every page. Markdown enabled.
 copyright:           '&copy; 2020. by ehyeok9'
 
