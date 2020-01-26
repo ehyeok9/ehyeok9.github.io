@@ -4,14 +4,14 @@
 
 locale:              ko
 title:               E-hyeok9
-name:                혁규의 blog
+name:                "혁규의 blog"
 search:              true
 search_full_content: true
 
 comments:
   provider               : "disqus"
   disqus:
-    shortname            : dev-hundred-blog # Short-name
+    shortname            : "ehyeok9" # Short-name
 
 defaults:
   # _posts
