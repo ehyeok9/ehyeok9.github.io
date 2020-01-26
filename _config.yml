@@ -13,12 +13,12 @@ url:                 https://ehyeok9.github.io
 baseurl:             ""
 
 # A very short description of your page
-tagline:              목표를 넘어 아젠다를 보는 개발자.
+tagline:              목표를 넘어 아젠다를 바라보는 개발자.
 
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
 description:         >
-  운동, 개발, 코딩 다 좋앙 ^_^7
+  운동, 개발, 코딩 다 좋아해요. 물론 군대에 있겠지만 ^_^7 !!
 
 # This should be the same author as first entry in `_data/authors.yml`
 author:
