@@ -1,7 +1,7 @@
 ---
 layout: tag-blog
-title: Secreport
-slug: secreport
+title: Mysell
+slug: mycell
 category: doc
 menu: false
 order: 1
