@@ -33,7 +33,7 @@ isme2n:
     # spotify:         <user>/<number>
     # soundcloud:      <username>
     # lastfm:          <username>
-    # instagram:       <username>
+    instagram:       e_hyeok9
     # flickr:          <string@string>
     # 500px:           <username>
     # dribbble:        <username>
@@ -59,7 +59,7 @@ isme2n:
     # stumbleupon:     <username>
     # paypal:          <username>
     email:           mailto:e_hyeok9@kookmin.ac.kr
-    rss:             https://ehyeok9.github.io/feed.xml
+    # rss:             https://ehyeok9.github.io/feed.xml
 
 # Another author
 mdo:
