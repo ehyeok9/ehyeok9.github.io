@@ -69,25 +69,6 @@ ___
 ### 체력단련실 환경과 분할법
 &nbsp;&nbsp;&nbsp;&nbsp;우리 부대는 사단 직할대에다 중대급 규모이기 때문에 체력단련실 환경이 좋지 않다. 크기는 원룸 2개 붙여 놓은 듯한 컨테이너 건물이고 체단실에 있는 머신은 런닝머신, 숄더프레스 머신 뿐인다. 그나마 다행인건 원판이 좀 있고 덤벨이 18kg까지 있다. 그래서 기본운동(벤치프레스, 데드리프트, 스쿼트)에 기반한 프리웨이트 운동으로 진행하고 있다. 운동은 등, 어깨, 가슴으로 부위를 나누어 3분할로 운동하며, 팔과 하체는 1주일에 1번씩 해주고 있고 복근은 가끔 시간 날 때마다 한다. 정리하면 다음과 같다.
  
- 
-<div class="divTable paleBlueRows">
-<div class="divTableHeading">
-<div class="divTableRow">
-<div class="divTableHead">월요일</div>
-<div class="divTableHead">화요일</div>
-<div class="divTableHead">수요일</div>
-<div class="divTableHead">목요일</div>
-<div class="divTableHead">금요일</div>
-<div class="divTableHead">토요일</div>
-<div class="divTableHead">일요일</div>
-</div>
-</div>
-<div class="divTableBody">
-<div class="divTableRow">
-<div class="divTableCell">등운동</div><div class="divTableCell">어깨운동</div><div class="divTableCell">가슴운동</div><div class="divTableCell">등운동</div><div class="divTableCell">어깨운동</div><div class="divTableCell">가슴운동</div><div class="divTableCell">팔,하체운동</div></div>
-</div>
-
-
 
 
 <br />
