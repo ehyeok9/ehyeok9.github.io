@@ -7,7 +7,7 @@ order: 10
 
 ## 소개
 
-- Email : [e_hyeok9@kookmin.ac.kr](e_hyeok9@kookmin.ac.kr)
+- Email : <e_hyeok9@kookmin.ac.kr>
 - Github : [https://github.com/ehyeok9](https://github.com/ehyeok9)
 
 안녕하세요, 이혁규입니다 !
