@@ -6,9 +6,7 @@ categories: essay
 tags: 
 ---
 - 남은 11개월 동안 이루고 싶은 나의 목표.
- - [Goal 1](#id-section1)
- - [Goal 2](#id-section2)
- - [Goal 3](#id-section3)
+
 <br />
 
 ___
