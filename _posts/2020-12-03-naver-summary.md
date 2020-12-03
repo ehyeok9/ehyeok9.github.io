@@ -21,10 +21,16 @@ ___
 
 - [잡플래닛 (종합적인 평가 및 정보)](https://www.youtube.com/watch?v=JaBWrrQkRHg)
 
-
+**[정리]**  
+1.[Knowledge Base Applications 모집 - 데이터분석,소프트웨어엔지니어](#id-section1)  
+2.[글로벌 검색 서비스 개발 - 소프트웨어엔지니어](#id-section2)  
+3.[검색 서버 개발 & DevOps 엔지니어 - 시스템엔지니어](#id-section3)  
+4.[검색 서비스 정보 수집 시스템 개발자 모집 - 시스템엔지니어](#id-section4)  
+5.[검색 서비스 장애 대응 시스템 개발자 모집 - 소프트웨어엔지니어, 시스템엔지니어](#id-section5)  
+6.[네이버 쇼핑검색플랫폼 개발자 - 웹개발자](#id-section6)  
 ---
-
-#### 1. Knowledge Base Applications 모집 (신입) - 2020.11.16 ~ 2021.02.26
+<div id='id-section1'/>
+### 1. Knowledge Base Applications 모집 (신입) - 2020.11.16 ~ 2021.02.26
 
 
 
@@ -74,8 +80,8 @@ Knowledge Base Applications는 네이버의 다양한 데이터를 Knowledge Gra
 
 
 ---
-
-#### 2. 글로벌 검색 서비스 개발 (신입) - 2020.11.05 ~ 2020.12.31
+<div id='id-section2'/>
+### 2. 글로벌 검색 서비스 개발 (신입) - 2020.11.05 ~ 2020.12.31
 
 
 
@@ -120,8 +126,8 @@ Knowledge Base Applications는 네이버의 다양한 데이터를 Knowledge Gra
 
 
 ---
-
-#### 3. [Search] 검색 서버 개발 & DevOps 엔지니어(신입) - 2020.11.16 ~ 2020.12.31
+<div id='id-section3'/>
+### 3. [Search] 검색 서버 개발 & DevOps 엔지니어(신입) - 2020.11.16 ~ 2020.12.31
 
 
 
@@ -208,8 +214,8 @@ Knowledge Base Applications는 네이버의 다양한 데이터를 Knowledge Gra
 
 
 ---
-
-#### 4. 검색 서비스 정보 수집 시스템 개발자 모집(신입) - 2020.11.24 ~ 2020.12.31
+<div id='id-section4'/>
+### 4. 검색 서비스 정보 수집 시스템 개발자 모집(신입) - 2020.11.24 ~ 2020.12.31
 
 
 **[소개]**
@@ -260,8 +266,8 @@ Knowledge Base Applications는 네이버의 다양한 데이터를 Knowledge Gra
 
 
 ---
-
-#### 5.검색 서비스 장애 대응 시스템 개발자 모집(신입) - 2020.11.05 ~ 2020.12.04
+<div id='id-section5'/>
+### 5.검색 서비스 장애 대응 시스템 개발자 모집(신입) - 2020.11.05 ~ 2020.12.04
 
 **[함께 일하고 싶습니다]**
 
@@ -314,8 +320,8 @@ Knowledge Base Applications는 네이버의 다양한 데이터를 Knowledge Gra
 
 
 ---
-
-#### 6. [Forest] 네이버 쇼핑검색플랫폼 개발자 - 2020. 12. 06
+<div id='id-section6'/>
+### 6. [Forest] 네이버 쇼핑검색플랫폼 개발자 - 2020. 12. 06
 
 **[주요업무]**
 
