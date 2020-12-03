@@ -21,6 +21,9 @@ ___
 
 - [잡플래닛 (종합적인 평가 및 정보)](https://www.youtube.com/watch?v=JaBWrrQkRHg)
 
+
+---
+
 #### 1. Knowledge Base Applications 모집 (신입) - 2020.11.16 ~ 2021.02.26
 
 
