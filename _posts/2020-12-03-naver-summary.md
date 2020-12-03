@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "네이버 체용 직무를 알아보자 !"
+title:  "네이버 채용 직무를 알아보자 !"
 subtitle:   "방향을 잡고 나를 객관화 해보자"
 categories: essay
 tags: 
