@@ -23,11 +23,18 @@ ___
 
 **[정리]**  
 1.[Knowledge Base Applications 모집 - 데이터분석,소프트웨어엔지니어](#id-section1)  
+
 2.[글로벌 검색 서비스 개발 - 소프트웨어엔지니어](#id-section2)  
+
 3.[검색 서버 개발 & DevOps 엔지니어 - 시스템엔지니어](#id-section3)  
+
 4.[검색 서비스 정보 수집 시스템 개발자 모집 - 시스템엔지니어](#id-section4)  
+
 5.[검색 서비스 장애 대응 시스템 개발자 모집 - 소프트웨어엔지니어, 시스템엔지니어](#id-section5)  
+
 6.[네이버 쇼핑검색플랫폼 개발자 - 웹개발자](#id-section6)  
+
+
 ---
 <div id='id-section1'/>
 ### 1. Knowledge Base Applications 모집 (신입) - 2020.11.16 ~ 2021.02.26
@@ -151,7 +158,7 @@ Knowledge Base Applications는 네이버의 다양한 데이터를 Knowledge Gra
 
 
 
-[역할 및 필요역량]
+**[역할 및 필요역량]**
 
 네이버 검색 서버 개발 및 DevOps 엔지니어링을 함께하실 동료를 찾습니다!  
 네이버 검색 서비스는 일 평균 수억 건에 달하는 국내 최대 규모의 트래픽을 대응하고 있습니다. 
