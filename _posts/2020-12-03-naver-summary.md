@@ -567,7 +567,7 @@ Knowledge Base Applications는 네이버의 다양한 데이터를 Knowledge Gra
 **[자격요건]**
 
 - 아래 기술 중 1가지 이상을 능숙하게 다루실 수 있는 분
->> [ java, react, react native, node.js, mongodb, elasticsearch, mysql, kafka, graphql, spring boot, kotlin, typescript, postgresql, tensorflow, spark ]
+> [ java, react, react native, node.js, mongodb, elasticsearch, mysql, kafka, graphql, spring boot, kotlin, typescript, postgresql, tensorflow, spark ]
 
 - 개발 실력에 대해 자신이 있으시다면 누구나 환영합니다
 
@@ -687,18 +687,28 @@ Knowledge Base Applications는 네이버의 다양한 데이터를 Knowledge Gra
 - 동영상 광고 및 각종 네이티브 광고 SDK 개발
 
 **[자격요건]**
-- 컴퓨터 과학의 기초 지식 (알고리즘, 데이터 구조, 데이터베이스, 네트워크, 비동기처리 등)
+- 컴퓨터 과학의 **기초 지식** (알고리즘, 데이터 구조, 데이터베이스, 네트워크, 비동기처리 등)
+
 - iOS 플랫폼에 대한 폭 넓은 이해
-- Swift/Objective-C를 이용한 iOS Native 2년 이상의 앱 개발 경험
-- Debugging, Profiling 지식 및 경험
+
+- ```Swift/Objective-C```를 이용한 iOS Native 2년 이상의 앱 개발 경험
+
+- ```Debugging, Profiling``` 지식 및 경험
+
 - 복잡한 문제에 대한 분석 및 해결 능력
+
 - 해외 출장/근무에 결격사유 없는 분
-우대사항
+
+**[우대사항
 - 광고 SDK 활용 경험
-- RxSwift 사용 경험
-- XCTest 를 이용한 UI 테스트 경험
+
+- **RxSwift** 사용 경험
+
+- ```XCTest``` 를 이용한 UI 테스트 경험
+
 - 라이브러리 개발 경험
-- AVPlayer/WebView를 이용한 개발 경험
+
+- ```AVPlayer/WebView```를 이용한 개발 경험
 
 
 
@@ -707,24 +717,39 @@ Knowledge Base Applications는 네이버의 다양한 데이터를 Knowledge Gra
 <div id='id-section15'/>
 ### 15.Global Ad SDK Engineer(Android) - 2020.12.06(상시)
 
-주요업무
+**[주요업무]**
 - 네이버 및 라인 서비스의 광고 플랫폼의 표준 SDK(Software Development Kit) 개발
+
 - 글로벌 광고 플랫폼 지원 (Google, MOPUB, Facebook, Amazon 등)
+
 - 동영상 광고 및 각종 네이티브 광고 SDK 개발
-자격요건
+
+**[자격요건]**
 - 컴퓨터 과학의 기초 지식 (알고리즘, 데이터 구조, 데이터베이스, 네트워크, 비동기처리 등)
-- Android Platform 에 대한 폭 넓은 이해
-- Java & Kotlin을 이용한 안드로이드 2년 이상의 앱 개발 경험
+
+- ```Android Platform``` 에 대한 폭 넓은 이해
+
+- ```Java & Kotlin```을 이용한 안드로이드 2년 이상의 앱 개발 경험
+
 - Debugging, Profiling 지식 및 경험
+
 - 복잡한 문제에 대한 분석 및 해결 능력
+
 - 해외 출장/근무에 결격사유 없는 분
-우대사항
-- 광고 SDK 활용 경험​
+
+**[우대사항]**
+- 광고 SDK 활용 경험
+
 - 안드로이드 오픈 소스 사용 경험
+
 - 각종 라이브러리 개발 경험
-- Groovy에 능숙한 분
-- JUnit, Robolectric, Espresso등을 사용한 TDD 개발 경험
-- RxJava 를 이용한 함수형 프로그래밍 경험
+
+- **Groovy**에 능숙한 분
+
+- ```JUnit, Robolectric, Espresso```등을 사용한 TDD 개발 경험
+
+- **RxJava** 를 이용한 함수형 프로그래밍 경험
+
 - WebView 및 ExoPlayer등의 VideoPlayer를 활용한 개발 경험
 
 
@@ -757,19 +782,29 @@ Knowledge Base Applications는 네이버의 다양한 데이터를 Knowledge Gra
 <div id='id-section17'/>
 ### 17.Global Ad Web Engineer - 2020.12.06(상시)
 
-주요업무
+**[주요업무]**
 - 네이버 및 라인의 글로벌 광고플랫폼 웹개발 및 운영을 합니다.
+
 - 빠르게 성장하고 있고 글로벌로 도약하고 있습니다.
-자격요건
+
+**[자격요건]**
 - 프로그램 설계, 디버깅, 자료구조 및 알고리즘의 이해가 가능하신 분
-- Javascript에 대한 전문적인 개발 역량과 HTML/CSS에 대한 이해가 있으신 분
-- React, Angular, Vue 중 1개 이상 실무 경험이 있고 이해가 높으신 분
+
+- ```Javascript에 대한 전문적인 개발 역량```과 ```HTML/CSS```에 대한 이해가 있으신 분
+
+- ```React, Angular, Vue``` 중 1개 이상 실무 경험이 있고 이해가 높으신 분
+
 - Java/NodeJS/Go 중 1개 이상 개발에 익숙하신 분
+
 - 해외 출장에 결격사유가 없으신 분
-우대사항
+
+**[우대사항]**
 - 프론트엔드 개발 실무 경력 1년 이상
+
 - 오픈소스 활용에 대한 경험이 풍부하신 분
-- Spring Framework 을 이용한 개발 경험이 있으신 분
+
+- ```Spring Framework``` 을 이용한 개발 경험이 있으신 분
+
 - ESTful API 개발 경험이 있으신 분
 
 
@@ -779,42 +814,62 @@ Knowledge Base Applications는 네이버의 다양한 데이터를 Knowledge Gra
 <div id='id-section18'/>
 ### 18.[Search & Clova] 글로벌 콘텐츠 검색/ AI 기술 개발 (신입) - 2020.12.31(상시)
 
-기업소개
+**[기업소개]**  
 Contents AI는 수 백가지 다양한 주제에 대한 최적의 검색 결과를 사용자에게 제공하는 네이버 만의 핵심 기술을
 가진 부서이며, DEVIEW와 해외 컨퍼런스를 통해 가진 기술을 공유하는 훌륭한 개발자들이 함께한 조직입니다.
 최근에는 AI 기술을 도입하고, 한국을 벗어나 글로벌 플랫폼으로 확장하기 위해 인력을 충원 중이며
 훌륭한 개발자를 채용하고자 합니다.
-주요업무
-[이런 일을 경험할 수 있습니다]
+
+**[주요업무]**  
+<u>[이런 일을 경험할 수 있습니다]</u>  
 · 내가 개발한 코드가 하루 수 천만의 사용자가 수 억 번 사용하게 되는 짜릿한 경험을 합니다.
+
 · 한국, 일본 등 업무 영역이 글로벌 합니다.
+
 · 네이버 검색 이상의 대용량 트래픽을 처리하는 기술 및 아키텍처를 직접 경험할 수 있습니다.
+
 · 검색 서비스에 없어서는 안 될 고성능 검색 API 및 질의 분석기를 사용해 볼 수 있습니다.
+
 · 구글의 Knowledge Vault, MS의 Satori 같은 네이버 만의 지식 그래프를 만들고 적용합니다.
 
-[역할]
+<u>[역할]</u>  
 · 웹, API 기반 서비스 및 데이터 Backend 개발
+
 · 사내 다양한 머신러닝 플랫폼을 활용한 딥러닝 모델의 검색 서비스 적용을 위한 개발
+
 · 대규모 로그 분석 및 관련 시스템 운영
+
 · 콘텐츠 검색 서비스 개발 및 운영
-자격요건
-· C, Java, Python 등의 프로그래밍 언어 중 1개 이상 자유자재로 다루시는 분
-· Linux/Shell 및 Git 환경에 익숙하신 분
-· MySQL, MongoDB 등 DB 개발 경험이 있으신 분
-· Spring 프레임워크 기반 개발 경험이 있으신 분
-우대사항
-[우대사항]
+
+**[자격요건]**  
+· ```C, Java, Python``` 등의 프로그래밍 언어 중 1개 이상 자유자재로 다루시는 분
+
+· **Linux/Shell** 및 **Git** 환경에 익숙하신 분
+
+· ```MySQL, MongoDB``` 등 DB 개발 경험이 있으신 분
+
+· ```Spring 프레임워크``` 기반 개발 경험이 있으신 분
+
+**[우대사항]**  
 · 웹서비스 및 검색 서비스에 대한 이해가 높으신 분
+
 · 대용량 트래픽 대응 경험이 있으신 분
+
 · 대용량 데이터 처리 및 분산 처리 플랫폼 경험이 있으신 분
+
 · Elastic Search, Spark등의 플랫폼을 사용한 경험이 있으신 분
+
 · Tensorflow 등 머신러닝 기법을 활용한 문제해결 경험이 있으신분
 
-[채용하고 싶은 사람]
+**[채용하고 싶은 사람]**  
 · 글로벌 시장에 대한 도전 의식을 가지신 분
+
 · 다양한 콘텐츠에 관심을 가지며, 주도적으로 서비스 개발에 임하시는 분
+
 · '코드에 주인이 없다'는 마인드를 소유 하신 분
+
 · 끊임없이 새로운 것을 배우고자 하는 자세를 가지신 분
+
 · 원활한 커뮤니케이션 능력을 보유하신 분
 
 
@@ -824,23 +879,37 @@ Contents AI는 수 백가지 다양한 주제에 대한 최적의 검색 결과�
 <div id='id-section19'/>
 ### 19.LIVE 클라우드 백엔드 서버 개발 (인턴직) - 2020.12.05
 
-주요업무
+***[주요업무]**
 - V Live, NaverTV 등 Naver 전사 라이브 플랫폼 고도화
+
 - 대규모 글로벌 라이브 플랫폼 자동 운영 및 레포팅 시스템 개발
+
 - Live Streaming 실시간 상태 모니터링 및 자동 문제감지 시스템 개발
+
 - AWS / Azure / Youtube / WowzaCloud 와 견줄 수 있는 Live Streaming 기술 SPEC 개발
-자격요건
+
+**[자격요건]**
 - 리눅스기반 Cloud 운영 API 서비스 개발
-- Java, Spring, JPA, Redis, Mysql 활용한 개발
-- 비동기 기술에 대한 이해
+
+- ```Java, Spring, JPA, Redis, Mysql``` 활용한 개발
+
+- ```비동기 기술```에 대한 이해
+
 - 문제핵심파악 능력과 논리적인 추론능력 분
-우대사항
+
+**[우대사항]**
 - 국가유공자 및 장애인 등 취업보호대상자는 관계법령에 따라 우대합니다.
+
 - 동영상 및 라이브 스트리밍 서비스와 기술 도메인 이해
+
 - Container 기반 MSA 환경의 이해
+
 - 다양한 Spring Project 경험과 이해
-- ELK, Hadoop, Druid 기술스택경험 및 Data Insight.
-- RabbitMQ / Kafka 등 메세지큐를 활용한 아키텍쳐 경험과 이해
+
+- ```ELK, Hadoop, Druid``` 기술스택경험 및 Data Insight.
+
+- ```RabbitMQ / Kafka``` 등 메세지큐를 활용한 아키텍쳐 경험과 이해
+
 - 새로운 오픈소스 적용 경험
 
 
@@ -850,19 +919,28 @@ Contents AI는 수 백가지 다양한 주제에 대한 최적의 검색 결과�
 <div id='id-section20'/>
 ### 20.VOD 클라우드 백엔드 서버 개발 (인턴직) - 2020.12.05
 
-주요업무
+**[주요업무]**
 - 네이버 전체 동영상(VOD) 서비스 백엔드 플랫폼 개발 및 운영
+
 - 고가용, 대용량 서비스를 위한 분산 서버 개발
+
 - 글로벌 zone, 멀티 region 에서 VOD 플랫폼 구축
-자격요건
+
+**[자격요건]**
 - Linux 기반 환경 개발 경험
-- Java, Spring Framework 환경 개발 경험
-우대사항
+
+- ```Java, Spring Framework``` 환경 개발 경험
+
+**[우대사항]**
 - 국가유공자 및 장애인 등 취업보호대상자는 관계법령에 따라 우대합니다.
+
 - 오픈소스 활용에 대한 경험이 풍부하신 분
-- SpringBoot, Cloud, Batch 등 다양한Spring모듈 사용 경험
-- Kafka/RabbitMQ 등 메시지 미들웨어 사용경험
-- MongoDB, Hbase 등 Nosql 사용 경험
+
+- ```SpringBoot, Cloud, Batch``` 등 다양한Spring모듈 사용 경험
+
+- ```Kafka/RabbitMQ``` 등 메시지 미들웨어 사용경험
+
+- ```MongoDB, Hbase``` 등 Nosql 사용 경험
 
 
 
@@ -871,19 +949,29 @@ Contents AI는 수 백가지 다양한 주제에 대한 최적의 검색 결과�
 <div id='id-section21'/>
 ### 21.동영상 허브 백엔드 S/W 엔지니어 (인턴직) - 2020.12.05
 
-주요업무
+**[주요업무]**
 - "읽는 네이버에서 보고 듣는 네이버로"
+
 - 동영상 뷰어 서버 개발
+
 - 고가용성 및 대용량의 트래픽을 위한 분산 및 비동기 처리 개발
-자격요건
+
+**[자격요건]**
 - Linux 기반의 웹 서비스 개발/운영
-- Java, Spring, Tomcat, Apache/NginX 기반의 웹 서비스 개발
-- Mysql, MariaDB 또는 유사한 관계형 DB 경험
-우대사항
+
+- ```Java, Spring, Tomcat, Apache/NginX``` 기반의 웹 서비스 개발
+
+- ```Mysql, MariaDB``` 또는 유사한 관계형 DB 경험
+
+**[우대사항]**
 - 국가유공자 및 장애인 등 취업보호대상자는 관계법령에 따라 우대합니다.
+
 - 오픈소스 활용에 대한 경험
+
 - Spring 기반 개발 경험
+
 - Kafka / RabbitMQ 등 메시지 미들웨어 사용 경험
+
 - MongoDB. Hbase 등 Nosql 사용 경험
 
 
@@ -893,18 +981,27 @@ Contents AI는 수 백가지 다양한 주제에 대한 최적의 검색 결과�
 <div id='id-section22'/>
 ### 22.동영상 데이터 엔지니어 (인턴직) - 2020.12.05
 
-주요업무
+**[주요업무]**
 - 동영상 지표 수집 및 데이터 분석
+
 - 동영상 분석 및 메타 DB 서비스
+
 - Hadoop Ecosystem 기반 Big Data Cluster 구축 및 개발
-자격요건
+
+**[자격요건]**
 - Linux 기반 환경 개발 경험
+
 - 데이터 수집, 가공, 처리, 분석 경험
-우대사항
+
+**[우대사항]**
 - 국가유공자 및 장애인 등 취업보호대상자는 관계법령에 따라 우대합니다.
+
 - 오픈소스 활용에 대한 경험이 풍부하신 분
-- Spark, Kafka, ELK 시스템 활용 및 데이터 처리 경험
-- Hadoop Ecosystem 에 대한 이해 및 사용 경험
+
+- ```Spark, Kafka, ELK``` 시스템 활용 및 데이터 처리 경험
+
+- ```Hadoop Ecosystem``` 에 대한 이해 및 사용 경험
+
 - ML Framework 사용 경험
 
 
@@ -914,18 +1011,26 @@ Contents AI는 수 백가지 다양한 주제에 대한 최적의 검색 결과�
 <div id='id-section23'/>
 ### 23.모바일 동영상 라이브/영상편집 SDK 개발 (Android) (인턴직) - 2020.12.05
 
-주요업무
+**[주요업무]**
 - 모바일 기반 라이브 스트리밍 SDK 개발
+
 - 모바일 기반 동영상 편집 SDK 개발
-​- GPU 기반 동영상 이펙트 개발 (얼굴인식, 애니메이션, AR 등)
-자격요건
+
+- GPU 기반 동영상 이펙트 개발 (얼굴인식, 애니메이션, AR 등)
+
+**[자격요건]**
 - 안드로이드 개발 가능자
-우대사항
+
+**[우대사항]**
 - 국가유공자 및 장애인 등 취업보호대상자는 관계법령에 따라 우대합니다.
+
 - 스트리밍과 스트리머, 인플루언서에 대한 관심과 이해
+
 - 멀티미디어 (이미지, 동영상, 오디오) 도메인 전공 혹은 이해 및 경험
-- Android Media Framework 에 대한 이해 및 경험
-- 네트워크 프로토콜 이해 및 경험 등 (TCP/UDP, RTMP, HLS, MPEG-DASH)
+
+- ```Android Media Framework``` 에 대한 이해 및 경험
+
+- ``네트워크 프로토콜``` 이해 및 경험 등 (TCP/UDP, RTMP, HLS, MPEG-DASH)
 
 
 
