@@ -759,21 +759,32 @@ Knowledge Base Applications는 네이버의 다양한 데이터를 Knowledge Gra
 <div id='id-section16'/>
 ### 16.Global Ad Backend Engineer - 2020.12.06(상시)
 
-주요업무
+**[주요업무]**
 - 네이버 및 라인의 글로벌 광고플랫폼 개발 및 운영을 합니다.
+
 - Ad Serving, Targeting, Budget Optimization 등의 로직 구현
+
 - Ad pipelining, Hadoop Eco 시스템을 사용한 데이터 처리 구현
-자격요건
+
+**[자격요건]**
 - 프로그램 설계, 디버깅, 자료구조 및 알고리즘의 이해가 가능하신 분
+
 - 랭킹/추천 관련 논문 습득, 이해 및 빠른 프로토타이핑에 능숙하신 분
+
 - 비즈니스나 데이터에 기반한 문제 해결에 익숙하신 분
+
 - 해외 출장에 결격사유가 없으신 분
-우대사항
-- Spring Framework 을 이용한 개발 경험이 있으신 분
+
+**[우대사항]**
+- ```Spring Framework``` 을 이용한 개발 경험이 있으신 분
+
 - 랭킹 또는 머신러닝 실무 경력이 있으신 분
+
 - 대용량 트래픽 / 데이터 처리 경험이 많으신 분
-- Hadoop Eco 시스템에 대한 경험이 많으신 분
-- Golang, C/C++, Java, Scala 중 2개 이상의 개발 언어에 능숙하신 분
+
+- ```Hadoop Eco``` 시스템에 대한 경험이 많으신 분
+
+- ```Golang, C/C++, Java, Scala``` 중 2개 이상의 개발 언어에 능숙하신 분
 
 
 
