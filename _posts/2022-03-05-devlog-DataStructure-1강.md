@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[자료구조] "
+title:  "[자료구조] 자료구조의 개념"
 subtitle:   "lecture 1"
 categories: devlog
 tags: DataStructure
