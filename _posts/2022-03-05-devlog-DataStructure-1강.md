@@ -1,14 +1,12 @@
 ---
 layout: post
-title:  "[자료구조] 자료구조의 개념"
+title:  "자료구조의 개념"
 subtitle:   "lecture 1"
 categories: devlog
 tags: DataStructure
 ---
 
-- 자료구조?
-
-- 자료구조의 적용과 응용
+- 자료구조? / 자료구조의 적용과 응용
 
 ___
 
@@ -33,17 +31,17 @@ ___
 ### 자료구조 개요
 
 - 자료구조란?
+- 
     - 컴퓨터 프로그램을
     - 논리적인 구조로 설계하고 분석
     - 컴퓨터가 필요로 하는 자료
-
     -> 표현, 저장, 처리하는 일련의 구조와 방법
 
-![자료구조 개요1 사진](https://github.com/ehyeok9/ehyeok9.github.io/blob/master/assets/img/devlog/data-structure/lecture1/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%20%EA%B0%9C%EC%9A%941.png)
+<img src="/assets/img/devlog/data-structure/lecture1/자료구조%20개요1.png" width="400">
 
 - 컴퓨터로 문제를 해결하는 과정
 
-![자료구조 개요2 사진](https://github.com/ehyeok9/ehyeok9.github.io/blob/master/assets/img/devlog/data-structure/lecture1/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%20%EA%B0%9C%EC%9A%942.png)
+<img src="/assets/img/devlog/data-structure/lecture1/자료구조%20개요2.png" width="400">
 
 - 문제 정의 = 요구사항 + 분석
 
@@ -81,12 +79,12 @@ ___
 
 - 마지막은 검증(VERIFICATION)
     - 정확성 입증
-    &nbsp;&nbsp;&nbsp;&nbsp; - 선택한 알고리즘이 정확한가?
-    &nbsp;&nbsp;&nbsp;&nbsp; - 에러율을 줄이고 있느가?
+      - 선택한 알고리즘이 정확한가?
+      - 에러율을 줄이고 있는가?
 
     - 테스팅
-    &nbsp;&nbsp;&nbsp;&nbsp; - 에러가 없는 프로그램이 목표
-    &nbsp;&nbsp;&nbsp;&nbsp; - 테스트 데이터 집합을 이용해 검증
+      - 에러가 없는 프로그램이 목표
+      - 테스트 데이터 집합을 이용해 검증
 
 - 에러 제거
      - 설계와 코딩에 따라 오류 제거의 난이도가 결정됨
@@ -102,7 +100,8 @@ ___
 
 - 소프트웨어 생명주기 
 
-![자료구조 개요3 사진](https://github.com/ehyeok9/ehyeok9.github.io/blob/master/assets/img/devlog/data-structure/lecture1/%EC%9E%90%EB%A3%8C%EA%B7%9C%EC%A1%B0%20%EA%B0%9C%EC%9A%943.png)
+<img src="/assets/img/devlog/data-structure/lecture1/자료구조%20개요3.png" width="400">
+
 
 생명주기를 잘 관리하는 방법
 
@@ -127,7 +126,8 @@ ___
 
 - 알고리즘 vs 프로그램
 
-![자료구조 개요4 사진](https://github.com/ehyeok9/ehyeok9.github.io/blob/master/assets/img/devlog/data-structure/lecture1/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%20%EA%B0%9C%EC%9A%944.png)
+<img src="/assets/img/devlog/data-structure/lecture1/자료구조%20개요4.png" width="400">
+
 
 - 알고리즘을 표현할 수 있는 방법 -> 자연어, 순서도, 의사코드 (C-Style 등)
 
@@ -141,18 +141,19 @@ ___
 
  의사코드로 표현해보면
 
-![자료구조 개요5 사진](https://github.com/ehyeok9/ehyeok9.github.io/blob/master/assets/img/devlog/data-structure/lecture1/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%20%EA%B0%9C%EC%9A%945.png)
+<img src="/assets/img/devlog/data-structure/lecture1/자료구조%20개요5.png" width="400">
 
  - 알고리즘 표현의 예시 - 이진 탐색
   
-  1. 1 시앙의 정수 집합이 있고  
+  1. 1 이상의 정수 집합이 있고  
   2. 이 집합이 이미 정렬되어 있는 자료를 list라고 한다.  
   3. 정수 searchnum이 이 집합에 있는 지 확인한다.  
   4. 만약 찾으면 list 에서의 index값을 얻는다.  
   (예를 들어, list[i]가 searchnum가 같으면, i가 된다.)  
   5. 그렇지 않으면, -1이 된다.
 
-![자료구조 개요6 사진](https://github.com/ehyeok9/ehyeok9.github.io/blob/master/assets/img/devlog/data-structure/lecture1/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%20%EA%B0%9C%EC%9A%946.png)
+<img src="/assets/img/devlog/data-structure/lecture1/자료구조%20개요6.png" width="400">
+
  - 알고리즘 표현의 예시 - 재귀 알고리즘
 
  작성한 알고리즘(함수 등)이 자기 자신을 호출하는 알고리즘 (직접 재귀, 간접 재귀)
@@ -161,13 +162,14 @@ ___
     - 어떤 함수도 재귀적으로 표현 가능
     - 재귀적으로 정의된 문제에서는 좋음!
 
-![자료구조 개요7 사진](https://github.com/ehyeok9/ehyeok9.github.io/blob/master/assets/img/devlog/data-structure/lecture1/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%20%EA%B0%9C%EC%9A%947.png)
+<img src="/assets/img/devlog/data-structure/lecture1/자료구조%20개요7.png" width="400">
+
 
 - 반복적(ITERATIVE) 표현을 재귀적(RECURSIVE)으로 변경하기
     - 재귀적 호출을 종료하는 **경계 조건**을 만들기!
     - 반복적 표현의 각 단계를 재귀적 호출로 바꾸기
 
-![자료구조 개요8 사진](https://github.com/ehyeok9/ehyeok9.github.io/blob/master/assets/img/devlog/data-structure/lecture1/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%20%EA%B0%9C%EC%9A%948.png)
+<img src="/assets/img/devlog/data-structure/lecture1/자료구조%20개요8.png" width="400">
 
 ### 데이터 추상화
 
