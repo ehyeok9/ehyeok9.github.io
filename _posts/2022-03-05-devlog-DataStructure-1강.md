@@ -100,7 +100,7 @@ ___
 
 - 소프트웨어 생명주기 
 
-<img src="/assets/img/devlog/data-structure/lecture1/자료구조%20개요3.png" width="400">
+<img src="/assets/img/devlog/data-structure/lecture1/자료규조%20개요3.png" width="400">
 
 
 생명주기를 잘 관리하는 방법
